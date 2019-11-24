@@ -1,7 +1,7 @@
 # coin
 ELEC291 Project 2 - Coin Collecting Robot
 
-Used interrupts, timers, and PWM interfacing to design and build an autonomous coin collecting robot in C (LPC824 microcontroller)
+Used interrupts, timers, and PWM interfacing to design and build an autonomous coin collecting robot in C 
 
 Features:
 - Fully Autonomous
